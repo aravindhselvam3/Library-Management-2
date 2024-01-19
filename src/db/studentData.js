@@ -1,0 +1,15 @@
+export const intialState = {
+students:[
+    {   name: "Aravindh",   gender: "Male",   class: 7,   birthdate: "7-12-1998",   address: "1748 Nerpi View",   street: "Jusu Lane",   city: "Govdante",   state: "AK",   country: "SM",   zip: 67497,   email:"difahoj@acibaho.md",book:"HarryPotter 1",   phone: "(557) 486-2675" },
+    {   name: "Shiva",   gender: "Mmale",   class: 9,   birthdate: "5-9-1990",   address: "762 Migof Road",   street: "Zatena Way",   city: "Ucudawas",   state: "TX",   country: "FJ",   zip: 26901,   email:"uzuocagu@wor.cf",book:"HarryPotter 1",   phone: "(641) 984-3113" },
+    {   name: "Dhinesh",   gender: "Male",   class: 3,   birthdate: "5-27-1959",   address: "154 Buha Extension",   street: "Gunul Glen",   city: "Ejahisira",   state: "MD",   country: "MQ",   zip: 58254,   email:"za@wu.co.uk", book:"HarryPotter 1",  phone: "(933) 606-2393" },
+    {   name: "Sudha",   gender: "Female",   class: 9,   birthdate: "10-5-1988",   address: "1755 Vegec Center",   street: "Buhled Grove",   city: "Pibdeed",   state: "NV",   country: "ET",   zip: 76260,   email:"ijluge@wol.tf",book:"HarryPotter 1",   phone: "(500) 959-3852" },
+    {   name: "Aishu",   gender: "Female",   class: 5,   birthdate: "7-12-1998",   address: "1029 Cuzgim Junction",   street: "Uwopo Parkway",   city: "Pogkoeco",   state: "NC",   country: "BQ",   zip: 63342,   email:"povgeluk@lu.ar", book:"HarryPotter 1",  phone: "(904) 218-3935" },
+    {   name: "Maha",   gender: "Female",   class: 2,   birthdate: "5-19-1964",   address: "701 Dowcu View",   street: "Ipec Parkway",   city: "Ciwmofus",   state: "VA",   country: "EE",   zip: 96143,   email:"okde@tutifo.nc",book:"HarryPotter 1",   phone: "(231) 468-1336" },
+    {   name: "Nivetha thomas",   gender: "Female",   class: 7,   birthdate: "9-29-1996",   address: "814 Wicej Plaza",   street: "Zukip Junction",   city: "Kimnute",   state: "KY",   country: "CY",   zip: 10029,   email:"maikude@usujorak.is",book:"Nil",   phone: "(810) 508-2254" },
+    {   name: "Mukesh",   gender: "Male",   class: 3,   birthdate: "9-16-1982",   address: "939 Lihpac Manor",   street: "Vopem View",   city: "Cisnutij",   state: "WV",   country: "LV",   zip: 43646,   email:"ni@opefuti.dj",book:"HarryPotter 1",   phone: "(365) 726-6148" },
+    {   name: "Chandru",   gender: "Male",   class: 9,   birthdate: "7-22-1994",   address: "1266 Zawna Junction",   street: "Jibba Key",   city: "Padkehrog",   state: "SC",   country: "CF",   zip: 17466,   email:"wa@wi.jm", book:"HarryPotter 1",  phone: "(422) 869-8125" },
+    {   name: "Rachel",   gender: "Female",   class: 6,   birthdate: "7-12-1998",   address: "1060 Sail Trail",   street: "Canno Terrace",   city: "Jovkotof",   state: "IN",   country: "LA",   zip: 85616,   email:"uwice@radisof.fr",   phone: "(455) 467-9912" },
+    {   name: "Jennifer",   gender: "Female",   class: 2,   birthdate: "4-26-1988",   address: "1718 Juhur Heights",   street: "Seco Park",   city: "Dowehap",   state: "PA",   country: "AO",   zip: 94609,   email:"wu@jet.es",  book:"HarryPotter 1", phone: "(785) 344-6930" }
+   ]
+}
