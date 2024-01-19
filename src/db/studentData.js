@@ -1,7 +1,7 @@
 export const intialState = {
 students:[
     {   name: "Aravindh",   gender: "Male",   class: 7,   birthdate: "7-12-1998",   address: "1748 Nerpi View",   street: "Jusu Lane",   city: "Govdante",   state: "AK",   country: "SM",   zip: 67497,   email:"difahoj@acibaho.md",book:"HarryPotter 1",   phone: "(557) 486-2675" },
-    {   name: "Shiva",   gender: "Mmale",   class: 9,   birthdate: "5-9-1990",   address: "762 Migof Road",   street: "Zatena Way",   city: "Ucudawas",   state: "TX",   country: "FJ",   zip: 26901,   email:"uzuocagu@wor.cf",book:"HarryPotter 1",   phone: "(641) 984-3113" },
+    {   name: "Shiva",   gender: "Male",   class: 9,   birthdate: "5-9-1990",   address: "762 Migof Road",   street: "Zatena Way",   city: "Ucudawas",   state: "TX",   country: "FJ",   zip: 26901,   email:"uzuocagu@wor.cf",book:"HarryPotter 1",   phone: "(641) 984-3113" },
     {   name: "Dhinesh",   gender: "Male",   class: 3,   birthdate: "5-27-1959",   address: "154 Buha Extension",   street: "Gunul Glen",   city: "Ejahisira",   state: "MD",   country: "MQ",   zip: 58254,   email:"za@wu.co.uk", book:"HarryPotter 1",  phone: "(933) 606-2393" },
     {   name: "Sudha",   gender: "Female",   class: 9,   birthdate: "10-5-1988",   address: "1755 Vegec Center",   street: "Buhled Grove",   city: "Pibdeed",   state: "NV",   country: "ET",   zip: 76260,   email:"ijluge@wol.tf",book:"HarryPotter 1",   phone: "(500) 959-3852" },
     {   name: "Aishu",   gender: "Female",   class: 5,   birthdate: "7-12-1998",   address: "1029 Cuzgim Junction",   street: "Uwopo Parkway",   city: "Pogkoeco",   state: "NC",   country: "BQ",   zip: 63342,   email:"povgeluk@lu.ar", book:"HarryPotter 1",  phone: "(904) 218-3935" },
